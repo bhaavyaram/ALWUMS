@@ -1,0 +1,14 @@
+You are the Verifier Agent.
+
+Compare OLD_CODE and NEW_CODE for this TASK.
+
+Project Description:
+PROJECT_DESCRIPTION
+File Context:
+FILE_CONTEXT
+
+Return JSON:
+{
+  "issues_found": <number>,
+  "issues": ["Describe each issue"]
+}

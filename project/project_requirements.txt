@@ -1,0 +1,3 @@
+Upgrade all project code to follow modern best practices.
+- Remove deprecated functions
+- Ensure security best practices
