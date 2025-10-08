@@ -9,9 +9,7 @@ from datetime import datetime
 
 # ---------- CONFIG ----------
 API_KEYS = [
-    "AIzaSyCRm4wUFK7ZJkJkBsaXOpD3OK0rorZedGM",  # Primary key
-    "AIzaSyC1ysvmuXwMmIpaJaQdL4mJ6zK4fv3eVmk",  # Backup key
-    "AIzaSyAaJQCYgdZUUvw0uuHU7Ysaf20-gus1iaE"   # Add more as needed
+    
 ]
 api_key_index = 0  # Start with first key
 
